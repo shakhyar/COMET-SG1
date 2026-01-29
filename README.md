@@ -89,15 +89,6 @@ the model suitable for ultra-low-power embedded systems.
 
 ---
 
-## Paper
-
-The full paper is included in this repository:
-
-**COMET-SG1: A Stability-Oriented Behavior-Space Autoregressive Regressor for Edge AI**  
-Shakhyar Gogoi  
-(PDF)
-
----
 ## Code Availability
 
 The reference implementation for COMET-SG1 is not publicly released at this time.
