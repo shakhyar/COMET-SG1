@@ -7,6 +7,11 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2601.20772-b31b1b.svg)](https://arxiv.org/abs/2601.20772)
 
 
+<p align="center">
+  <img src="2707.png" alt="Comparison of COMET-SG1 with baseline models" width="700"/>
+</p>
+
+
 
 **Keywords:** Edge AI, Time-Series Prediction, Autoregressive Models, TinyML, Embedded Systems
 
