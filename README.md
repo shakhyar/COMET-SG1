@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="2707.png" alt="Comparison of COMET-SG1 with baseline models" width="700"/>
+  <img src="1501.png" alt="Comparison of COMET-SG1 with baseline models" width="700"/>
 </p>
 
 
