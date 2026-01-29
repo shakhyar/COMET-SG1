@@ -94,9 +94,14 @@ Shakhyar Gogoi
 
 If you use or reference this work, please cite:
 
-```
-Shakhyar Gogoi,
-"COMET-SG1: A Stability-Oriented Behavior-Space Autoregressive Regressor for Edge AI"
+```bibtex
+@article{gogoi2026cometsg1,
+  title   = {COMET-SG1: Lightweight Autoregressive Regressor for Edge and Embedded Systems},
+  author  = {Gogoi, Shakhyar},
+  journal = {arXiv preprint arXiv:2601.20772},
+  year    = {2026},
+  doi     = {10.48550/arXiv.2601.20772}
+}
 ```
 
 ---
