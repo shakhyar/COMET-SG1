@@ -2,6 +2,7 @@
 ## A Stability-Oriented Behavior-Space Autoregressive Regressor for Edge AI
 
 **Author:** Shakhyar Gogoi  
+arXiv: [arXiv](https://arxiv.org/abs/2601.20772)
 **Keywords:** Edge AI, Time-Series Prediction, Autoregressive Models, TinyML, Embedded Systems
 
 ---
