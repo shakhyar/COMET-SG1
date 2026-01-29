@@ -92,7 +92,13 @@ Shakhyar Gogoi
 
 ## Citation
 
-If you use or reference this work, please cite:
+If you use or reference this work, please cite the arXiv preprint:
+
+S. Gogoi, “COMET-SG1: Lightweight Autoregressive Regressor for Edge and Embedded Systems,”  
+arXiv:2601.20772, 2026. https://doi.org/10.48550/arXiv.2601.20772
+
+<details>
+<summary>BibTeX</summary>
 
 ```bibtex
 @article{gogoi2026cometsg1,
