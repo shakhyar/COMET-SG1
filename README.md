@@ -1,16 +1,25 @@
 # COMET-SG1  
-## A Stability-Oriented Behavior-Space Autoregressive Regressor for Edge AI
+## Lightweight Autoregressive Regressor for Edge and Embedded Systems
+
 
 **Author:** Shakhyar Gogoi  
-arXiv: [https://arxiv.org/abs/2601.20772](https://arxiv.org/abs/2601.20772)
-
-DOI: [![arXiv](https://img.shields.io/badge/arXiv-2601.20772-b31b1b.svg)](https://arxiv.org/abs/2601.20772)
+[https://arxiv.org/abs/2601.20772](https://arxiv.org/abs/2601.20772)
+[![arXiv](https://img.shields.io/badge/arXiv-2601.20772-b31b1b.svg)](https://arxiv.org/abs/2601.20772)
 
 
 
 **Keywords:** Edge AI, Time-Series Prediction, Autoregressive Models, TinyML, Embedded Systems
 
 ---
+
+## Paper
+
+The full paper is available on arXiv:
+
+**COMET-SG1: Lightweight Autoregressive Regressor for Edge and Embedded Systems**  
+Shakhyar Gogoi  
+[https://arxiv.org/abs/2601.20772](https://arxiv.org/abs/2601.20772)
+
 
 ## Overview
 
@@ -61,7 +70,7 @@ In autoregressive deployment, small prediction errors compound over time, leadin
 drift, oscillation, or collapse. This issue is especially problematic in edge settings,
 where frequent re-anchoring to ground truth is infeasible.
 
-COMET-SG1, proposed by **Shakhyar Gogoi**, addresses this by anchoring each update to
+COMET-SG1, addresses this by anchoring each update to
 empirically observed behavior transitions rather than repeatedly applying a single-step
 predictor.
 
@@ -89,12 +98,23 @@ Shakhyar Gogoi
 (PDF)
 
 ---
+## Code Availability
+
+The reference implementation for COMET-SG1 is not publicly released at this time.
+
+The current repository is intended to accompany the paper by documenting the model design,
+assumptions, and deployment considerations. The codebase is undergoing cleanup and
+reproducibility validation prior to any public release.
+
+This work emphasizes architectural clarity and theoretical grounding; the paper provides
+sufficient detail to reimplement the method independently.
+
 
 ## Citation
 
 If you use or reference this work, please cite the arXiv preprint:
 
-S. Gogoi, “COMET-SG1: Lightweight Autoregressive Regressor for Edge and Embedded Systems,”  
+Shakhyar Gogoi, “COMET-SG1: Lightweight Autoregressive Regressor for Edge and Embedded Systems,”  
 arXiv:2601.20772, 2026. https://doi.org/10.48550/arXiv.2601.20772
 
 <details>
@@ -110,10 +130,3 @@ arXiv:2601.20772, 2026. https://doi.org/10.48550/arXiv.2601.20772
 }
 ```
 
----
-
-## Author
-
-**Shakhyar Gogoi**  
-Independent Researcher  
-Focus: Edge AI, Time-Series Modeling, Autoregressive Systems
